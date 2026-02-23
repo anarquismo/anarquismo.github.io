@@ -16,8 +16,8 @@
 　sur　〜の上で
 　sub 〜の下で
 
-Mi parola 私は話す
-Mi es parola 私は話している（現在進行系）
-Mi de parola 私は話されられた（受動系）
-Mi al parola 私が話そうか（能動系）
-Mi ha parola 私は話さなければ（義務系）
+前置詞を動詞の前に置くことも出来る
+　es parola 話している（現在進行系）
+　de parola 話せられた（受動系）
+　al parola 話そうか（能動系）
+　ha parola 話さなければ（義務系）
