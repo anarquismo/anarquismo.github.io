@@ -80,7 +80,7 @@
 　　patro 父親
 　　matro 母親
 　　mano 手・指
-　　bodo　身体
+　　boduo 身体
 　　sprio 精神
 　　pano パン
 　　domo 家
