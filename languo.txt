@@ -7,17 +7,20 @@
 　固有名詞はそのまま
 
 前置詞
-　al （向格）〜へ
-　de （奪格）〜から
-　pro（造格）〜によって
-　fur　〜の為に
-　en　〜の中で
-　ex　〜の外で
-　sur　〜の上で
-　sub 〜の下で
+　al（方向）〜へ
+　de（由来）〜から
+　of（所有）〜の
+　pro（原因）〜によって
+　fur（目的）〜ために
+　en（場所）〜なかで
+　ex（場所）〜そとで
+　sur（場所）〜うえで
+　sub（場所）〜したで
 
 前置詞を動詞の前に置くことも出来る
-　es parola 話している（現在進行系）
-　de parola 話せられた（受動系）
-　al parola 話そうか（能動系）
-　ha parola 話さなければ（義務系）
+　es parola 話している（進行）
+　de parola 話せられた（受動）
+　al parola 話そうか（能動）
+　ha parola 話さなければ（義務）
+　fur parola 話すために（目的）
+　pro parola 話すことによって（原因）
