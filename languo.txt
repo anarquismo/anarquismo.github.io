@@ -65,7 +65,7 @@
 　　matro 母親
 　　mano 手・指
 　　bodo　身体
-　　spirio 精神
+　　sprio 精神
 　　pano パン
 　　libero 自由
 　　situacio 状況
@@ -75,14 +75,15 @@
 　　nacio 民族
 　形容詞
 　　pure 純粋な
+　　grave 重い
 　　bone 良い
 　　bade 悪い
 　　alte 高い
-　　chipe 安い
+　　caie 安い
 　　qute 可愛い
-　　magne 強い
-　　bige 大きい
-　　grande 偉大な
+　　forte 強い
+　　magne 大きい
+　　minie 小さい
 　　nigre 黒い
 
 例文
