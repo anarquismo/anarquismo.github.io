@@ -1,9 +1,13 @@
-国際補助語
+国際補助語の草稿
 
 語尾のルール
 　-a 動詞（活用・時制なし）
 　-e 形容詞（副詞はなく同じ）
 　-o 名詞（固有名詞は語尾なし）
+
+基本的な品詞
+　es （コピュラ）〜である
+　que （疑問詞・関係代名詞）なにの〜
 
 前置詞
 　al（方向）〜へ
@@ -16,6 +20,16 @@
 　sur（場所）〜うえで
 　sub（場所）〜したで
 
+接続詞 
+　et かつ
+　au または
+　dum あいだ
+　gis まで
+　pue ならば
+
+助動詞
+　
+
 前置詞を動詞の前に置くことも出来る
 　es parola 話している（進行）
 　de parola 話せられた（受動）
@@ -23,6 +37,11 @@
 　ha parola 話さなければ（義務）
 　fur parola 話すために（目的）
 　pro parola 話すことによって（原因）
+
+語彙（だいだい印欧語族）
+　ha 持つ
+　va 行く
+　authori
 
 例文
 　La sovieto revolucio es que de opresa pro la Bolshevik
