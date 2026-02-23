@@ -95,6 +95,7 @@
 　　revolucio 革命
 　　stato 国家
 　　nacio 民族
+　　pueblo 民衆
 　　tempo 時間
 　　lugo 場所
 　形容詞
