@@ -1,10 +1,9 @@
 国際補助語
 
 語尾のルール
-　-a 動詞
-　-e 形容詞（副詞も同じ）
-　-o 名詞
-　固有名詞はそのまま
+　-a 動詞（活用・時制なし）
+　-e 形容詞（副詞はなく同じ）
+　-o 名詞（固有名詞は語尾なし）
 
 前置詞
 　al（方向）〜へ
@@ -24,3 +23,7 @@
 　ha parola 話さなければ（義務）
 　fur parola 話すために（目的）
 　pro parola 話すことによって（原因）
+
+例文
+　La sovieto revolucio es que de opresa pro la Bolshevik
+　ソヴィエト革命はボルシェヴィキによって抑圧された
