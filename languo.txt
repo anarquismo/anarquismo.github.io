@@ -62,7 +62,7 @@
 　　vena 来る
 　　dona 与える
 　　leva 取る
-　　pres 押す
+　　presa 押す
 　　pensa 考える
 　　viva 生きる
 　　morta 死ぬ
