@@ -6,8 +6,9 @@
 　-o 名詞（固有名詞は語尾なし）
 　-i 代名詞（MiやViなど）
 
-基本的な品詞
+基本的な言葉
 　es（コピュラ）
+　la（冠詞）
 　no（否定詞）
 疑問詞・関係代名詞　
 　que（どんな）
@@ -59,6 +60,18 @@
 　　vena 来る
 　　dona 与える
 　　leva 取る
+　　pres 押す
+　　pensa 考える
+　　viva 生きる
+　　morta 死ぬ
+　　parola 話す
+　　audia 聞く
+　　vidua 見る
+　　reada 読む
+　　scriba 書く
+　　slepa 寝る
+　　terna 回る
+　　avanta 進む
 　名詞
 　　humo 人間
 　　patro 父親
@@ -67,12 +80,15 @@
 　　bodo　身体
 　　sprio 精神
 　　pano パン
+　　domo 家
 　　libero 自由
 　　situacio 状況
 　　authorio 権威
 　　revolucio 革命
 　　stato 国家
 　　nacio 民族
+　　tempo 時間
+　　lugo 場所
 　形容詞
 　　pure 純粋な
 　　grave 重い
@@ -87,5 +103,5 @@
 　　nigre 黒い
 
 例文
-　La sovieto revolucio es que de opresa pro la Bolshevik
+　La sovieto revolucio es que de subpresa pro la Bolshevik
 　ソヴィエト革命はボルシェヴィキによって抑圧された
