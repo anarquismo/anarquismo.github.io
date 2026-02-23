@@ -36,10 +36,11 @@
 　zis まで
 　pue ならば
 
-前置詞を動詞の前に置くことも出来る
+動詞の前にコピュラや前置詞を置ける
 　es parola 話している（進行）
 　de parola 話された（自動）
 　al parola 話させる（他動）
+　of parola 話すべき（義務）
 　fur parola 話すために（目的）
 　pro parola 話すことによって（原因）
 
