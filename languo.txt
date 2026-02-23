@@ -44,8 +44,10 @@
 　fur parola 話すために（目的）
 　pro parola 話すことによって（原因）
 
+
 語彙
-　印欧語族から借用
+　印欧語族から借用したものが多い
+　もちろん語尾のルールにそって品詞を変えられる
 
 　代名詞
 　　Mi 私・われわれ
@@ -74,7 +76,10 @@
 　　scriba 書く
 　　slepa 寝る
 　　terna 回る
-　　avanta 進む
+　　avanta 進む・前進する
+　　revolta 歯向かう・叛逆する
+　　serva 従う・奉仕する
+　　
 　名詞
 　　humo 人間
 　　patro 父親
