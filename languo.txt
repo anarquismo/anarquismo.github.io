@@ -7,7 +7,7 @@
 　固有名詞はそのまま
 
 前置詞
-　a （向格）〜へ
+　al （向格）〜へ
 　de （奪格）〜から
 　pro（造格）〜によって
 　fur　〜の為に
@@ -19,4 +19,5 @@
 Mi parola 私は話す
 Mi es parola 私は話している（現在進行系）
 Mi de parola 私は話されられた（受動系）
-Mi a parola 私は話そう（能動系・未来形）
+Mi al parola 私が話そうか（能動系）
+Mi ha parola 私は話さなければ（義務系）
