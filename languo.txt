@@ -1,5 +1,7 @@
 国際補助語の草稿
 
+語順はSVO 前置修飾
+
 語尾のルール
 　-a 動詞（活用・時制なし）
 　-e 形容詞（副詞はなく同じ）
@@ -103,5 +105,5 @@
 　　nigre 黒い
 
 例文
-　La sovieto revolucio es que de subpresa pro la Bolshevik
-　ソヴィエト革命はボルシェヴィキによって抑圧された
+　La sovieto es revolucio que de subpresa pro la Bolshevik
+　ソヴィエトはボルシェヴィキによって抑圧された革命だ
