@@ -36,8 +36,8 @@
 
 前置詞を動詞の前に置くことも出来る
 　es parola 話している（進行）
-　de parola 話せられた（受動）
-　al parola 話そうか（能動）
+　de parola 話された（自動）
+　al parola 話させる（他動）
 　fur parola 話すために（目的）
 　pro parola 話すことによって（原因）
 
